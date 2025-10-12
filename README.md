@@ -9,7 +9,20 @@ Hello im Tom, im currently working on LRN.
 
 ---
 ## `🛠️`Tools
-<!---
-Tupplex/Tupplex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#Disclaimer: Currently Learning, not an expert at any of these!
+
+**Programing languges**
+
+![Logo](https://skillicons.dev/icons?i=ts,js,lua,cs,cpp)
+
+**Communication**
+
+![Logo](https://skillicons.dev/icons?i=discord,github)
+
+**Databases**
+
+![Logo](https://skillicons.dev/icons?i=postgres)
+
+**Other**
+![Logo](https://skillicons.dev/icons?i=git,docker)
