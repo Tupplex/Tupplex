@@ -10,7 +10,7 @@ Hello im Tom, im currently working on LRN.
 ---
 ## `🛠️`Tools
 
-###Disclaimer: Currently Learning, not an expert at any of these!
+*Disclaimer: Currently Learning, not an expert at any of these!*
 
 **Programing languges**
 
