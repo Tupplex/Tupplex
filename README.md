@@ -5,7 +5,7 @@
 
 ## `🌏`About me!
 
-Hello im Tom, im currently working on LRN.
+Hello im Tom, trying to make it as an Editor. Besides that im into web Development.
 
 ---
 ## `🛠️`Tools
